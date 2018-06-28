@@ -20,7 +20,7 @@ public class EasyCurrency {
     public static double convertCurrency(String from, String to) {
 
         String API_ENDPOINT="https://free.currencyconverterapi.com/api/v5/convert?q=";
-        String reqString = from + "_" + to.toUpperCase();
+        String reqString = (from + "_" + to).toUpperCase();
 
         HttpClient client = new DefaultHttpClient();
         HttpGet httpGet = new HttpGet(API_ENDPOINT + reqString + "&compact=ultra");
