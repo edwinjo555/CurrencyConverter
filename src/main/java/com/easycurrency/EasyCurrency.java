@@ -14,12 +14,12 @@ import org.json.JSONObject;
 import java.io.IOException;
 
 public class EasyCurrency {
-    static String API_ENDPOINT="https://free.currencyconverterapi.com/api/v5/convert?q=";
+
 
 
     private static double convertCurrency(String from, String to) {
 
-
+        String API_ENDPOINT="https://free.currencyconverterapi.com/api/v5/convert?q=";
         String reqString = from + "_" + to.toUpperCase();
 
         HttpClient client = new DefaultHttpClient();
