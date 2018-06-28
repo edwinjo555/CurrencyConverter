@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EasyCurrency-1.1:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="67caafd5-8d05-4502-a4b3-11245c4e33c1" name="Default" comment="" />
+    <list default="true" id="67caafd5-8d05-4502-a4b3-11245c4e33c1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -31,8 +38,8 @@
       <file leaf-file-name="EasyCurrency.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/easycurrency/EasyCurrency.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="135">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -45,6 +52,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -433,6 +443,7 @@
     <option name="width" value="996" />
     <option name="height" value="694" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -452,6 +463,17 @@
               <item name="EasyCurrency-1.1" type="b2602c69:ProjectViewProjectNode" />
               <item name="EasyCurrency-1.1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyCurrency-1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyCurrency-1.1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="EasyCurrency-1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EasyCurrency-1.1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="EasyCurrency-1.1" type="b2602c69:ProjectViewProjectNode" />
@@ -478,6 +500,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -568,32 +591,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530168120138</updated>
-      <workItem from="1530168123341" duration="542000" />
+      <workItem from="1530168123341" duration="1794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="542000" />
+    <option name="totallyTimeSpent" value="1794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1024" height="738" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32935154" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32991454" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24949084" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Build" weight="0.32935154" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -633,8 +656,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/easycurrency/EasyCurrency.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="135">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
@@ -644,10 +667,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>EasyCurrency-1.1:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
