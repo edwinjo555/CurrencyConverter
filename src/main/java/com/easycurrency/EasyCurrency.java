@@ -17,7 +17,7 @@ public class EasyCurrency {
 
 
 
-    private static double convertCurrency(String from, String to) {
+    public static double convertCurrency(String from, String to) {
 
         String API_ENDPOINT="https://free.currencyconverterapi.com/api/v5/convert?q=";
         String reqString = from + "_" + to.toUpperCase();
