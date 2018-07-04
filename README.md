@@ -1,6 +1,8 @@
 # CurrencyConverter
 
-Prerequisites
+This is a library for converting currency.
+
+Prerequisites:
 Add Dependencies to gradle
 
 	allprojects {
